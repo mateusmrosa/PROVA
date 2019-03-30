@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section scripts{
+<script src="~/js/Login/Index.js"></script>
+}
+
+@section estilos{
+
+}
+
+    <h2>Login</h2>
+
+    <form method="post">
+        <label>Usuario: </label>
+        <input type="text" id="usuario" />
+        <label>Senha: </label>
+        <input type="password" id="senha" onchange="onfocus"/> <br /><br />
+
+        <!--teclado virtual-->
+        <label>Digite a senha no teclado virtual: </label>
+        <input type="button" id="btn1" value="1" onclick="" />
+        <input type="button" id="btn2" value="2" onclick=""/>
+        <input type="button" id="btn3" value="3" onclick=""/>
+        <!--teclado virtual-->
+
+        <input type="button" value="Enviar" onclick="index.logar()" />
+
+    </form>
+

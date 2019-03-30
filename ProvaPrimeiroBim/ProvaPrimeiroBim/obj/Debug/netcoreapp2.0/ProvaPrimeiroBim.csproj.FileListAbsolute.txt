@@ -1,0 +1,11 @@
+D:\ProvaPrimeiroBim\ProvaPrimeiroBim\bin\Debug\netcoreapp2.0\ProvaPrimeiroBim.deps.json
+D:\ProvaPrimeiroBim\ProvaPrimeiroBim\bin\Debug\netcoreapp2.0\ProvaPrimeiroBim.runtimeconfig.json
+D:\ProvaPrimeiroBim\ProvaPrimeiroBim\bin\Debug\netcoreapp2.0\ProvaPrimeiroBim.runtimeconfig.dev.json
+D:\ProvaPrimeiroBim\ProvaPrimeiroBim\bin\Debug\netcoreapp2.0\ProvaPrimeiroBim.dll
+D:\ProvaPrimeiroBim\ProvaPrimeiroBim\obj\Debug\netcoreapp2.0\ProvaPrimeiroBim.csprojResolveAssemblyReference.cache
+D:\ProvaPrimeiroBim\ProvaPrimeiroBim\obj\Debug\netcoreapp2.0\ProvaPrimeiroBim.csproj.CoreCompileInputs.cache
+D:\ProvaPrimeiroBim\ProvaPrimeiroBim\obj\Debug\netcoreapp2.0\ProvaPrimeiroBim.AssemblyInfoInputs.cache
+D:\ProvaPrimeiroBim\ProvaPrimeiroBim\obj\Debug\netcoreapp2.0\ProvaPrimeiroBim.AssemblyInfo.cs
+D:\ProvaPrimeiroBim\ProvaPrimeiroBim\bin\Debug\netcoreapp2.0\ProvaPrimeiroBim.pdb
+D:\ProvaPrimeiroBim\ProvaPrimeiroBim\obj\Debug\netcoreapp2.0\ProvaPrimeiroBim.dll
+D:\ProvaPrimeiroBim\ProvaPrimeiroBim\obj\Debug\netcoreapp2.0\ProvaPrimeiroBim.pdb
